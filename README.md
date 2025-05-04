@@ -173,6 +173,6 @@ useEffect(() => {
 
 `npm run test`
 
-## 🧠 Other Considerations
+## 🧠 Other Considerations
 
 - Fix the UI styling
